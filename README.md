@@ -33,17 +33,6 @@ To get started with the quiz app, follow these steps:
 - Start the development server: npm start
 - Open your browser and navigate to http://localhost:3000
 
-**Future Improvements**
-
-Here are some potential enhancements that can be made to the quiz app:
-
-Include more categories and questions to provide a wider range of topics for players to choose from.
-Implement a user authentication system to track individual scores and provide personalized experiences.
-Add a leaderboard feature to display the highest scores achieved by players.
-Enhance the UI with animations, transitions, and visual effects to make the quiz more engaging.
-Include a progress bar or indicator to show the player's progress within the quiz.
-Implement a feature to allow players to bookmark questions and revisit them later.
-
 **Contributing**
 
 Contributions to the quiz app are welcome! If you find any bugs, have suggestions for improvements, or would like to add new features, please open an issue or submit a pull request. Make sure to follow the existing code style and guidelines.
