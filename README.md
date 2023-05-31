@@ -16,13 +16,13 @@ This is a simplified version of a quiz game that allows players to test their kn
 
 The quiz app is built using the following technologies:
 
--Front-end: HTML, CSS, JavaScript
--UI Framework: React.js
--State Management: Redux
--Styling: CSS-in-JS (styled-components)
--Timer: JavaScript setInterval function
--Routing: React Router
--Data Source: JSON file or API endpoint
+- Front-end: HTML, CSS, JavaScript
+- UI Framework: React.js
+- State Management: Redux
+- Styling: CSS-in-JS (styled-components)
+- Timer: JavaScript setInterval function
+- Routing: React Router
+- Data Source: JSON file or API endpoint
 
 **Getting Started**
 
@@ -33,7 +33,7 @@ To get started with the quiz app, follow these steps:
 - Start the development server: npm start
 - Open your browser and navigate to http://localhost:3000
 
-Future Improvements
+**Future Improvements**
 
 Here are some potential enhancements that can be made to the quiz app:
 
@@ -44,9 +44,10 @@ Enhance the UI with animations, transitions, and visual effects to make the quiz
 Include a progress bar or indicator to show the player's progress within the quiz.
 Implement a feature to allow players to bookmark questions and revisit them later.
 
-Contributing
+**Contributing**
 
 Contributions to the quiz app are welcome! If you find any bugs, have suggestions for improvements, or would like to add new features, please open an issue or submit a pull request. Make sure to follow the existing code style and guidelines.
 
-License
+**License**
+
 The quiz app is released under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
