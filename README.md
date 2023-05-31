@@ -1,1 +1,2 @@
-# quiz-app
+This is a simplified quiz game that allows players to test their knowledge in various categories and difficulty levels. Players can select a category and difficulty level before starting the game. Questions are displayed one at a time with multiple-choice answers. Feedback is provided at the and of the game, and the score is tracked throughout the game. The application is responsive and works well on both desktop and mobile devices.
+

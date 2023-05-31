@@ -1,0 +1,51 @@
+.home-container,
+.home-title,
+.box,
+.box-title {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-title h1 {
+    font-size: 24px;
+    color: var(--white);
+    margin-top: 15px;
+}
+
+.box-container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.box-container h1 {
+    font-size: 24px;
+}
+
+.box {
+    background: var(--purpleD);
+    border-radius: var(--radius);
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.box img {
+    border-radius: var(--radius);
+}
+
+.box .box-title span {
+    margin: 20px 0 10px;
+    color: lightgrey;
+}
+
+.box-link {
+    padding: 10px 15px;
+    background: var(--purpleW);
+    border-radius: var(--radius);
+    margin-top: 15px;
+}

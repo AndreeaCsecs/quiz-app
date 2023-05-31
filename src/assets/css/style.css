@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@700&family=Roboto:wght@400;700&display=swap');
+
+:root {
+    --purple: #471aa0;
+    --purpleW: #4f20ad;
+    --purpleD: #260056;
+    --dark: #262626;
+    --white: #ebdcff;
+    --radius: 25px;
+    --value: attr(data-value);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    color: var(--white);
+}
+
+.app-container {
+    width: 100%;
+    padding: 2rem 1rem;
+    background-color: var(--purple);
+    min-height: 100vh;
+}
+.error-link {
+    width: 300px;
+    margin: 2rem auto 0 auto;
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem 1.5rem;
+    border-radius: 0.5rem;
+    color: var(--white);
+    text-decoration: none;
+}
+@media screen and (max-width: 768px) {
+    .app-container {
+        padding: 0;
+    }
+}
