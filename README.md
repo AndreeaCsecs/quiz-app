@@ -21,14 +21,18 @@ Styling: CSS-in-JS (styled-components)
 Timer: JavaScript setInterval function
 Routing: React Router
 Data Source: JSON file or API endpoint
+
 Getting Started
+
 To get started with the quiz app, follow these steps:
 
 Clone the repository: git clone https://github.com/your-username/quiz-app.git
 Install the dependencies: npm install
 Start the development server: npm start
 Open your browser and navigate to http://localhost:3000
+
 Future Improvements
+
 Here are some potential enhancements that can be made to the quiz app:
 
 Include more categories and questions to provide a wider range of topics for players to choose from.
