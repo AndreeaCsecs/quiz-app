@@ -6,7 +6,7 @@ This is a simplified version of a quiz game that allows players to test their kn
 
 - Question Display: Once the game starts, questions are displayed one at a time with multiple-choice answers. Players need to select their answer within 30 seconds.
 
-- Game Logic: The player selects an answer for each question, and the application provides instant feedback, indicating whether the answer is correct or incorrect. The score is kept track of throughout the game. If the player fails to answer within the given time, a notification reminds them to hurry up, and a default answer is automatically selected if no response is given.
+- Game Logic: The player selects an answer for each question, and the score is kept track of throughout the game. If the player fails to answer within the given time, a notification reminds them to hurry up, and a default answer is automatically selected if no response is given.
 
 - Results: After the last question, the player's score is displayed along with a summary of correct and wrong answers. Players have the option to play again and improve their score.
 
