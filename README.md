@@ -18,7 +18,6 @@ The quiz app is built using the following technologies:
 
 - Front-end: HTML, CSS, JavaScript
 - UI Framework: React.js
-- State Management: Redux
 - Styling: CSS-in-JS (styled-components)
 - Timer: JavaScript setInterval function
 - Routing: React Router
