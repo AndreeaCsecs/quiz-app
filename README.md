@@ -21,7 +21,6 @@ The quiz app is built using the following technologies:
 - Styling: CSS-in-JS (styled-components)
 - Timer: JavaScript setInterval function
 - Routing: React Router
-- Data Source: JSON file or API endpoint
 
 **Getting Started**
 
@@ -36,6 +35,3 @@ To get started with the quiz app, follow these steps:
 
 Contributions to the quiz app are welcome! If you find any bugs, have suggestions for improvements, or would like to add new features, please open an issue or submit a pull request. Make sure to follow the existing code style and guidelines.
 
-**License**
-
-The quiz app is released under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
