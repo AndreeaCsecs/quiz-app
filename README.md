@@ -1,3 +1,7 @@
+# Quiz App
+
+**Live Demo:** https://quizz-andreeea.netlify.app/
+
 This is a simplified version of a quiz game that allows players to test their knowledge in various categories and difficulty levels. The application provides an interactive and engaging quiz experience, where players can select a category and difficulty level before starting the game.
 
 **Features**
